@@ -1,0 +1,10 @@
+<IPCatalog>
+  <IP>
+    <Name>2dscaler</Name>
+    <Version>1.0</Version>
+    <Vendor>Latticesemi</Vendor>
+    <Location>https://joms4short.github.io/jomar.github.io/IP_Repository/latticesemi.com_2d_scaler_1.0.0.ipk</Location>
+    <Description>Custom IP for testing with Radiant</Description>
+    <License>Free</License>
+  </IP>
+</IPCatalog>
